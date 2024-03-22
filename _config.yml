@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yichun Zhao &#128516;&#128059;&#11088;"
+title                    : "Yichun Zhao &#128516;&#128059;&#11088;" # &#x1F393;
 title_separator          : "-"
 name                     : "Yichun Zhao"
 description              : "HCI Researcher"
