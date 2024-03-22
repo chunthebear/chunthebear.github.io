@@ -1,7 +1,7 @@
 ---
 title: "Sessional Course Instructor / Lecturer"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate course, CSC 370 Database Systems"
 permalink: /teaching/2022-Instructor
 venue: "Department of Computer Science, University of Victoria"
 date: 2022-09-01
