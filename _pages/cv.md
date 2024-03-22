@@ -25,21 +25,17 @@ redirect_from:
 
 ## Work Experience
 
-* Image Description Specialist, Centre for Accessible Learning, University of Victoria. 
-  * September 2019 - December 2022
+* Image Description Specialist, Centre for Accessible Learning, University of Victoria. **September 2019 - December 2022**
   * Made learning more accessible for visually impaired students by converting complex images to text descriptions
 
-* Research Intern, Music-computer Lab, University of Victoria  
-  * May 2022 - August 2022
+* Research Intern, Music-computer Lab, University of Victoria. **May 2022 - August 2022**
   * Developed a novel interactive sonification framework to turn data into sounds with real-time control for domain experts with no programming experience to adopt and design meaningful sonifications
 
-* Full Stack Software Engineer, AOT Technologies, Victoria, BC  
-  * May 2021 - August 2021 (Contract); January - August 2020 (Co-op)
+* Full Stack Software Engineer, AOT Technologies, Victoria, BC. **May 2021 - August 2021; January - August 2020**
   * Developed an open-source framework, [formsflow.ai](https://formsflow.ai/), consisting of smart forms, automated business workflows, and data analytics to facilitate business processes with integration of SSO and cloud deployment
   * Implemented and maintained DevOps pipeline for formsflow.ai
 
-* Quality Assurance Analyst Co-op, VertiGIS, Victoria, BC
-  * May - August 2019
+* Quality Assurance Analyst Co-op, VertiGIS, Victoria, BC. **May - August 2019**
   * Oversaw the quality of four software Geocortex products through user and functionality testing
   * Designed and maintained automated and manual tests 
   * Reported bugs, tracked defects, and resolved issues with developers effectively in a team
@@ -101,7 +97,7 @@ redirect_from:
   * Volunteer Organizer (Information Technology & Communications in Health [ITCH] Conference 2019)  
   * Volunteer Organizer (Hi-Tech Co-op Career Fair 2019)  
 
-Notable Awards and Achievements
+## Notable Awards and Achievements
 
 * UVic Graduate Fellowship Award (PhD). **2023 - 2024**
   * $15,000 + $5,000 top-up (competitive)
