@@ -5,7 +5,7 @@ permalink: /publication/2024-Sensemaking
 excerpt: ''
 date: 2024-01-01
 venue: 'ACM SIGCHI Conference on Human Factors in Computing Systems – Sensemaking Workshop'
-paperurl: "<a href="https://drive.google.com/file/d/12FdQ3oXhwbRuLHvevCXl9HwIFoCgzn79/view?usp=drive_link" target="_blank">paper link</a>"
+paperurl: "https://drive.google.com/file/d/12FdQ3oXhwbRuLHvevCXl9HwIFoCgzn79/view?usp=drive_link"
 citation: 'Zhao, Y., Nacenta. (2024). "Tools and Tasks in Sensemaking: A Visual Accessibility Perspective." <i>Proceedings of the SIGCHI Conference on Human Factors in Computing Systems – Sensemaking Workshop.</i> (ACM CHI workshop, paper presentation).'
 ---
 
