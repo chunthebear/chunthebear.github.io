@@ -12,7 +12,7 @@ title                    : "Yichun Zhao &#128516;&#128059;&#11088;"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://chunthebear.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chunthebear.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chunthebear/chunthebear.github.io"
 
