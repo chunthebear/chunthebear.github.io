@@ -13,4 +13,4 @@ Welcome to my academic portfolio page! I am a Ph.D. student in the Department of
 
 For a list of my publications, please visit the [Publications](/publications/) page. For my teaching experience, visit the [Teaching](/teaching/) page. For a list of my projects, please visit the [Portfolio](/portfolio/) page.
 
-You can view my [CV](/cv/) for more details about my education and work experience. You can also find me on [Google Scholar](https://scholar.google.com/citations?user=8Z6Z9YQAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/yichun-zhao/) and [X (or Twitter)](https://twitter.com/YichunZhao).
+You can view my [CV](/cv/) for more details about my education and work experience. You can also find me on [Google Scholar](https://scholar.google.ca/citations?user=sBdn2mgAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/yichunzhao/) and [X (or Twitter)](https://twitter.com/yichunzhao6).
