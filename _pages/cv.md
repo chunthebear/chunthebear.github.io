@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-======
+
 * PhD in Computer Science, University of Victoria (UVic). **2023 - Present** 
   * GPA: 9/9 or 100% average
 
@@ -24,7 +24,7 @@ redirect_from:
 
 
 ## Work Experience
-======
+
 * Image Description Specialist, Centre for Accessible Learning, University of Victoria. 
   * September 2019 - December 2022
   * Made learning more accessible for visually impaired students by converting complex images to text descriptions
@@ -45,7 +45,7 @@ redirect_from:
   * Reported bugs, tracked defects, and resolved issues with developers effectively in a team
   
 <!-- Skills
-======
+
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -54,25 +54,25 @@ redirect_from:
 * Skill 3 -->
 
 ## Publications
-======
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 <!-- Talks
-======
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul> -->
   
 ## Teaching
-======
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ## Mentoring
-======
+
 * Jingyi Lu, Undergraduate Honours Student, Computer Science, UVic. **2024** 
 * Laura Paul, MSc Student, Computer Science, UVic. **2024** 
 * Teaching Assistant Consultant, Learning and Teaching Support and Innovation (LTSI), University of Victoria. **2022 - Present**
@@ -80,7 +80,7 @@ redirect_from:
   * Conducted teaching observations and consultations for 13 TAs to improve their instructional skills
   
 ## Service and Leadership
-======
+
 * Student Volunteer (ACM Conference on Human Factors in Computing [CHI]). **2024** 
 
 * Reviewer (ACM Conference on Human Factors in Computing [CHI], Late-Breaking Work). **2024**
@@ -102,7 +102,7 @@ redirect_from:
   * Volunteer Organizer (Hi-Tech Co-op Career Fair 2019)  
 
 Notable Awards and Achievements
-======
+
 * UVic Graduate Fellowship Award (PhD). **2023 - 2024**
   * $15,000 + $5,000 top-up (competitive)
 
