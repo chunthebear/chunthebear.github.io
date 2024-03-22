@@ -61,11 +61,19 @@ Publications
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul> -->
   
-Teaching and Mentoring
+Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Mentoring
+======
+* 2024: Jingyi Lu, Undergraduate Honours Student, Computer Science, UVic
+* 2024: Laura Paul, MSc Student, Computer Science, UVic
+* 2022 - Present: Teaching Assistant Consultant, Learning and Teaching Support and Innovation (LTSI), University of Victoria
+  * Working with the Computer Science Department and professors to help support ~80 teaching assistants (TAs)
+  * Conducted teaching observations and consultations for 13 TAs to improve their instructional skills
   
 Service and Leadership
 ======
