@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "TADA: Touch-and-Audio-based Diagram Access"
+excerpt: "TADA makes diagrams accessible to blind and low-vision people. <br/><img src='https://img.youtube.com/vi/ukPLDN8CiWI/0.jpg'>"
 collection: portfolio
 ---
 
