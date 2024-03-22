@@ -5,7 +5,7 @@ permalink: /publication/2022-InteractiveSon
 excerpt: 'An interactive sonification tool.'
 date: 2022-01-01
 venue: 'Conference on Sonification of Health and Environmental Data'
-paperurl: "https://drive.google.com/file/d/1eIqb01qEIoMQMs2YW8doLrocY-Adv0Mp/view?usp=drive_link"
+paperurl: "<a href="https://drive.google.com/file/d/1eIqb01qEIoMQMs2YW8doLrocY-Adv0Mp/view?usp=drive_link" target="_blank">paper link</a>"
 citation: 'Zhao, Y., & Tzanetakis, G. (2022). "Interactive Sonification for Health and Energy using ChucK and Unity." <i>Proceedings of the Conference on Sonification of Health and Environmental Data.</i> 57-62. (SoniHED, paper presentation).'
 ---
 
