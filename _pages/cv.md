@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
-* 2023 - 2027: PhD in Computer Science, University of Victoria (UVic)  
+<!-- * 2023 - 2027: PhD in Computer Science, University of Victoria (UVic)  
   * GPA: 9/9 or 100% average
 
 * 2021 - 2023: MSc, Thesis in Computer Science, University of Victoria  
@@ -20,7 +20,24 @@ Education
 * 2021 - 2022, 2023 - 2024: NSERC Visual and Automated Disease Analytics ([VADA](https://vada.cs.umanitoba.ca/profiles/yichun-zhao/)) Graduate Training Program, University of Manitoba and University of Victoria
 
 * 2018 - 2021: BSc, Combined Degree in Computer Science and Health Information Science, University of Victoria  
-  * GPA: 8.71/9 or 97% average
+  * GPA: 8.71/9 or 97% average -->
+
+
+### PhD in Computer Science
+**University of Victoria (UVic)**, 2023 - 2027
+- GPA: 9/9 or 100% average
+
+### MSc, Thesis in Computer Science
+**University of Victoria**, 2021 - 2023
+- GPA: 9/9 or 100% average
+
+### NSERC Visual and Automated Disease Analytics (VADA) Graduate Training Program
+**University of Manitoba and University of Victoria**, 2021 - 2022, 2023 - 2024
+
+### BSc, Combined Degree in Computer Science and Health Information Science
+**University of Victoria**, 2018 - 2021
+- GPA: 8.71/9 or 97% average
+
 
 
 Work Experience
