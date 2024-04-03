@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yichun Zhao's Academic Website"
+title: "Yichun Zhao"
 author_profile: true
 redirect_from: 
   - /about/
