@@ -19,9 +19,45 @@ You can view my [CV](/cv/) for more details about my education and work experien
 
 <div class="table-wrapper" markdown="block" style="overflow-x: scroll; overflow-y: scroll; font-size: 12px;" >
 
-| 2024-04 | I have received the NSERC CGSD Doctoral Award! |
-| 2024-04 | Our CHI 2024 paper on TADA has received the Honourable Mention Award! |
-| 2024-04 | Presented and engaged the blind and low-vision community at the Canadian Council for the Blind (CCB) Annual General Meeting, Conference and Workshops. |
-| 2024-01 | Our paper on TADA has been accepted in CHI 2024! |
+<style>
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+table, th, td {
+  border: none;
+}
+th, td {
+  padding: 12px;
+  text-align: left;
+  font-size: 15px;
+}
+td:first-child {
+  width: 12%;
+}
+</style>
+
+<table>
+  <tr>
+    <td>2024-04</td>
+    <td>I have received the NSERC CGSD Doctoral Award!</td>
+  </tr>
+  <tr>
+    <td>2024-04</td>
+    <td>Our CHI 2024 paper on <a href="https://drive.google.com/file/d/1JiLCtijPCQDKN9f1nI5O2WfQymKGgZQR/view?usp=drive_link">TADA</a> has received the Honourable Mention Award!</td>
+  </tr>
+  <tr>
+    <td>2024-04</td>
+    <td>Presented and engaged the blind and low-vision community at the Canadian Council for the Blind (CCB) Annual General Meeting, Conference and Workshops.</td>
+  </tr>
+  <tr>
+    <td>2024-01</td>
+    <td>Our paper on <a href="https://drive.google.com/file/d/1JiLCtijPCQDKN9f1nI5O2WfQymKGgZQR/view?usp=drive_link">TADA</a> has been accepted in CHI 2024!</td>
+  </tr>
+</table>
+
+
+</div>
+
 
 </div>
