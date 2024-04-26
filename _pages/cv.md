@@ -99,6 +99,9 @@ redirect_from:
 
 ## Notable Awards and Achievements
 
+* NSERC CGSD Doctoral Award. **2024 - 2027**
+  * (competitive)
+
 * UVic Graduate Fellowship Award (PhD). **2023 - 2024**
   * $15,000 + $5,000 top-up (competitive)
 
