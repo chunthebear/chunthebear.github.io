@@ -17,7 +17,7 @@ You can view my [CV](/cv/) for more details about my education and work experien
 
 # News
 
-<div class="table-wrapper" markdown="block" style="overflow-x: scroll; overflow-y: scroll;" >
+<div class="table-wrapper" markdown="block" style="overflow-x: scroll; overflow-y: scroll; font-size: 12px;" >
 
 | 2024-04 | I have received the NSERC CGSD Doctoral Award! |
 | 2024-04 | Our CHI 2024 paper on TADA has received the Honourable Mention Award! |
