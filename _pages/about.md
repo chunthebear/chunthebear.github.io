@@ -17,10 +17,7 @@ You can view my [CV](/cv/) for more details about my education and work experien
 
 # News
 
-create a two column table, the left is month and the right is news. the news should be much wider than the month.
-
-```markdown
-|-------|------|
+| Year-Month | News |
 | 2024-04 | I have received the NSERC CGSD Doctoral Award! |
 | 2024-04 | Our CHI 2024 paper on TADA has received the Honourable Mention Award! |
 | 2024-04 | Presented and engaged the blind and low-vision community at the Canadian Council for the Blind (CCB) Annual General Meeting, Conference and Workshops. |
