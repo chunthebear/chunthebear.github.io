@@ -44,7 +44,7 @@ td:first-child {
   </tr>
   <tr>
     <td>2024-04</td>
-    <td>Our CHI 2024 paper on <a href="https://drive.google.com/file/d/1JiLCtijPCQDKN9f1nI5O2WfQymKGgZQR/view?usp=drive_link">TADA</a> has received the Honourable Mention Award!</td>
+    <td>Our ACM CHI 2024 paper on <a href="https://drive.google.com/file/d/1JiLCtijPCQDKN9f1nI5O2WfQymKGgZQR/view?usp=drive_link">TADA</a> has received the Honourable Mention Award!</td>
   </tr>
   <tr>
     <td>2024-04</td>
@@ -52,7 +52,7 @@ td:first-child {
   </tr>
   <tr>
     <td>2024-01</td>
-    <td>Our paper on <a href="https://drive.google.com/file/d/1JiLCtijPCQDKN9f1nI5O2WfQymKGgZQR/view?usp=drive_link">TADA</a> has been accepted in CHI 2024!</td>
+    <td>Our paper on <a href="https://drive.google.com/file/d/1JiLCtijPCQDKN9f1nI5O2WfQymKGgZQR/view?usp=drive_link">TADA</a> has been accepted in ACM CHI 2024!</td>
   </tr>
 </table>
 
