@@ -14,3 +14,14 @@ Welcome to my academic portfolio page! I am a Ph.D. student in the Department of
 For a list of my publications, please visit the [Publications](/publications/) page. For an overview of my projects, visit the [Portfolio](/portfolio/) page. For my teaching experience, please visit the [Teaching](/teaching/) page. 
 
 You can view my [CV](/cv/) for more details about my education and work experience. You can also find me on [Google Scholar](https://scholar.google.ca/citations?user=sBdn2mgAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/yichunzhao/) and [X (or Twitter)](https://twitter.com/yichunzhao6).
+
+# News
+
+create a two column table, the left is month and the right is news. the news should be much wider than the month.
+
+```markdown
+|-------|------|
+| 2024-04 | I have received the NSERC CGSD Doctoral Award! |
+| 2024-04 | Our CHI 2024 paper on TADA has received the Honourable Mention Award! |
+| 2024-04 | Presented and engaged the blind and low-vision community at the Canadian Council for the Blind (CCB) Annual General Meeting, Conference and Workshops. |
+| 2024-01 | Our paper on TADA has been accepted in CHI 2024! |
