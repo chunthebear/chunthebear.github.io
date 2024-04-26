@@ -17,8 +17,11 @@ You can view my [CV](/cv/) for more details about my education and work experien
 
 # News
 
-| Year-Month | News |
+<div class="table-wrapper" markdown="block" style="overflow-x: scroll; overflow-y: scroll;" >
+
 | 2024-04 | I have received the NSERC CGSD Doctoral Award! |
 | 2024-04 | Our CHI 2024 paper on TADA has received the Honourable Mention Award! |
 | 2024-04 | Presented and engaged the blind and low-vision community at the Canadian Council for the Blind (CCB) Annual General Meeting, Conference and Workshops. |
 | 2024-01 | Our paper on TADA has been accepted in CHI 2024! |
+
+</div>
