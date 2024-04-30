@@ -34,24 +34,25 @@ th, td {
 }
 td:first-child {
   width: 12%;
+  white-space: nowrap;
 }
 </style>
 
 <table>
   <tr>
-    <td>2024-04</td>
+    <td>2024 04</td>
     <td>I have received the NSERC CGSD Doctoral Award!</td>
   </tr>
   <tr>
-    <td>2024-04</td>
+    <td>2024 04</td>
     <td>Our ACM CHI 2024 paper on <a href="https://drive.google.com/file/d/1JiLCtijPCQDKN9f1nI5O2WfQymKGgZQR/view?usp=drive_link">TADA</a> has received the Honourable Mention Award!</td>
   </tr>
   <tr>
-    <td>2024-04</td>
+    <td>2024 04</td>
     <td>Presented and engaged the blind and low-vision community at the Canadian Council for the Blind (CCB) Annual General Meeting, Conference and Workshops.</td>
   </tr>
   <tr>
-    <td>2024-01</td>
+    <td>2024 01</td>
     <td>Our paper on <a href="https://drive.google.com/file/d/1JiLCtijPCQDKN9f1nI5O2WfQymKGgZQR/view?usp=drive_link">TADA</a> has been accepted in ACM CHI 2024!</td>
   </tr>
 </table>
