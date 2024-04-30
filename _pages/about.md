@@ -45,11 +45,11 @@ td:first-child {
   </tr>
   <tr>
     <td>2024 04</td>
-    <td>Our ACM CHI 2024 paper on <a href="https://drive.google.com/file/d/1JiLCtijPCQDKN9f1nI5O2WfQymKGgZQR/view?usp=drive_link">TADA</a> has received the Honourable Mention Award!</td>
+    <td>Our ACM CHI 2024 paper on <a href="https://drive.google.com/file/d/1JiLCtijPCQDKN9f1nI5O2WfQymKGgZQR/view?usp=drive_link">TADA</a> has received the Honourable Mention Paper Award!</td>
   </tr>
   <tr>
     <td>2024 04</td>
-    <td>Presented and engaged the blind and low-vision community at the Canadian Council for the Blind (CCB) Annual General Meeting, Conference and Workshops.</td>
+    <td>Presented and engaged the blind and low-vision community at the Canadian Council of the Blind (CCB) Annual General Meeting, Conference and Workshops.</td>
   </tr>
   <tr>
     <td>2024 01</td>
