@@ -40,6 +40,10 @@ td:first-child {
 
 <table>
   <tr>
+    <td>2024 05</td>
+    <td>Nominated by UVic for the Google PhD Fellowship.</td>
+  </tr>
+  <tr>
     <td>2024 04</td>
     <td>I have received the NSERC CGSD Doctoral Award!</td>
   </tr>
