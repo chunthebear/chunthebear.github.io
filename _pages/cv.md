@@ -32,7 +32,7 @@ td:first-child {
 
 <div class="table-wrapper" markdown="block" style="overflow-x: scroll; overflow-y: scroll; font-size: 12px;" >
 
-<table> <tr> <td>2023 - Present</td> <td>PhD in Computer Science, University of Victoria (UVic)</td> <td>GPA: 9/9 or 100% average</td> </tr> <tr> <td>2021 - 2023</td> <td>MSc, Thesis in Computer Science, University of Victoria</td> <td>GPA: 9/9 or 100% average</td> </tr> <tr> <td>2021 - 2022, <br> 2023 - 2024</td> <td>NSERC Visual and Automated Disease Analytics (VADA) Graduate Training Program,f <br>University of Manitoba and University of Victoria</td> <td> </td> </tr> <tr> <td>2018 - 2021</td> <td>BSc, Combined Degree in Computer Science and Health Information Science, University of Victoria</td> <td>GPA: 8.71/9 or 97% average</td> </tr> </table>
+<table> <tr> <td>2023 - Present</td> <td>PhD in Computer Science, University of Victoria (UVic)</td> <td>GPA: 9/9 or 100% average</td> </tr> <tr> <td>2021 - 2023</td> <td>MSc, Thesis in Computer Science, University of Victoria</td> <td>GPA: 9/9 or 100% average</td> </tr> <tr> <td>2021 - 2022, <br> 2023 - 2024</td> <td>NSERC Visual and Automated Disease Analytics (VADA) Graduate Training Program, <br>University of Manitoba and University of Victoria</td> <td> </td> </tr> <tr> <td>2018 - 2021</td> <td>BSc, Combined Degree in Computer Science and Health Information Science, University of Victoria</td> <td>GPA: 8.71/9 or 97% average</td> </tr> </table>
 
 </div>
 
