@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic portfolio page! I am a Ph.D. student in the Department of Computer Science at the University of Victoria, BC, Canada. I am a member of the [Victoria Interactive eXperiences with Information (VIXI) Research Lab](https://vixi.cs.uvic.ca/), working with [Dr. Miguel A. Nacenta](https://nacenta.com/) and [Dr. Sowmya Somanath](https://vixi.cs.uvic.ca/people/sowmya-somanath-2020-06-18/). I conduct research in Human-Computer Interaction and Accessibility, and I build systems to enhance accessibility to data and information for blind and low-vision people, especially in professional and mixed-visual settings. 
+Welcome! I am a Ph.D. student in the Department of Computer Science at the University of Victoria, BC, Canada. I am a member of the [Victoria Interactive eXperiences with Information (VIXI) Research Lab](https://vixi.cs.uvic.ca/), working with [Dr. Miguel A. Nacenta](https://nacenta.com/) and [Dr. Sowmya Somanath](https://vixi.cs.uvic.ca/people/sowmya-somanath-2020-06-18/). I conduct research in Human-Computer Interaction and Accessibility, and I build systems to enhance accessibility to data and information for blind and low-vision people, especially in professional and mixed-visual settings. 
 
 <!-- I am also part of the [NSERC Visual and Automated Disease Analytics (VADA) Graduate Training Program](https://vada.cs.umanitoba.ca/profiles/yichun-zhao/), a collaborative program between the University of Manitoba and the University of Victoria. -->
 
