@@ -184,7 +184,7 @@ td:first-child {
   </tr>
   <tr>
     <td>2018 - 2020</td>
-    <td></td>
+    <td>Various</td>
     <td>UVic Computer Science Course Union (CSCU) Website Redesign <br> Executive Member of Health Information Science (HINF) Student Union <br> Executive Member of Women in Engineering and Computer Science (WECS) <br>
     Let’s Talk Science and WECS’s outreach programs <br> UVic Senior’s Program (helping seniors learn basic technology) <br> Volunteer Organizer (Information Technology & Communications in Health [ITCH] Conference 2019) <br> Volunteer Organizer (Hi-Tech Co-op Career Fair 2019)</td>
   </tr>
