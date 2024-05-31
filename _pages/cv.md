@@ -245,13 +245,13 @@ td:first-child {
   <tr>
     <td>2023 - 2024</td>
     <td>NSERC CREATE Visual and Automated Disease Analytics (VADA) Training Award (PhD)</td>
-    <td>$5,300 + $2,070 top-up</td>
+    <td></td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td>2023</td>
     <td>Victoria Canada-China Friendship Association Scholarship</td>
     <td></td>
-  </tr>
+  </tr> -->
   <tr>
     <td>2023</td>
     <td>1st Prize Winner in UVic Pitch Competition (PitchIt)</td>
