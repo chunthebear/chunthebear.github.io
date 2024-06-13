@@ -149,6 +149,11 @@ td:first-child {
   </tr> -->
   <tr>
     <td>2024</td>
+    <td>Committee Member, Reviewer</td>
+    <td>IEEE VIS, Short Paper</td>
+  </tr>
+  <tr>
+    <td>2024</td>
     <td>Reviewer</td>
     <td>Cognition and Creativity [C&C], Poster</td>
   </tr>
