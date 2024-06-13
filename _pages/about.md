@@ -39,6 +39,10 @@ td:first-child {
 </style>
 
 <table>
+<tr>
+    <td>2024 06</td>
+    <td>First-authored acedemic poster accepted in Global Neuropsychology Congress 2024! An umbrella statistical review: <a href="https://drive.google.com/file/d/1g1iWIP8TNs_11TL6bwc51_mjx3kGJf2N/view?usp=drive_link">Meta-Analysis of Meta-Analyses on Non-Invasive Brain Stimulation for Post-Stroke Depression</a>. </td>
+  </tr>
   <tr>
     <td>2024 05</td>
     <td>Nominated by UVic for the Google PhD Fellowship.</td>
