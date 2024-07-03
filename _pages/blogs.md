@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<div class="table-wrapper" markdown="block" style="overflow-x: scroll; overflow-y: scroll; font-size: 14px;" >
+<div class="table-wrapper" markdown="block" style="overflow-x: scroll; overflow-y: scroll; font-size: 12px;" >
 
 <style>
 table {
@@ -22,7 +22,7 @@ table, th, td {
 th, td {
   padding: 12px;
   text-align: left;
-  font-size: 15px;
+  font-size: 18px;
 }
 td:first-child {
   width: 12%;
