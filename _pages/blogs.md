@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<div class="table-wrapper" markdown="block" style="overflow-x: scroll; overflow-y: scroll; font-size: 13px;" >
+<div class="table-wrapper" markdown="block" style="overflow-x: scroll; overflow-y: scroll; font-size: 14px;" >
 
 <style>
 table {
