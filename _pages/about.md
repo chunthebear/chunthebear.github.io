@@ -41,7 +41,7 @@ td:first-child {
 <table>
 <tr>
     <td>2024 06</td>
-    <td>Our <a href="https://drive.google.com/file/d/1g1iWIP8TNs_11TL6bwc51_mjx3kGJf2N/view?usp=drive_link">Umbrella Review on Non-Invasive Brain Stimulation for Post-Stroke Depression</a> has been accepted in the Global Neuropsychology Congress! Check out the <a href="https://decision-map.com/">DECISION-MAP</a> interface we designed! </td>
+    <td>Our <a href="https://drive.google.com/file/d/1g1iWIP8TNs_11TL6bwc51_mjx3kGJf2N/view?usp=drive_link">Umbrella Review on Non-Invasive Brain Stimulation for Post-Stroke Depression</a> has been accepted in the Global Neuropsychology Congress. Check out the <a href="https://decision-map.com/">DECISION-MAP</a> interface we designed! </td>
   </tr>
   <tr>
     <td>2024 05</td>
