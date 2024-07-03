@@ -232,11 +232,11 @@ td:first-child {
     <th>Award</th>
     <th>Details</th>
   </tr> -->
-  <!-- <tr>
+  <tr>
     <td>2024</td>
-    <td>Nominated for the Google PhD Fellowship</td>
+    <td>University of Victoria Graduate Awards</td>
     <td></td>
-  </tr> -->
+  </tr>
   <tr>
     <td>2024 - 2027</td>
     <td>NSERC CGSD Doctoral Award</td>
