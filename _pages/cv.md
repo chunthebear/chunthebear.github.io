@@ -240,7 +240,7 @@ td:first-child {
   <tr>
     <td>2024 - 2027</td>
     <td>NSERC CGSD Doctoral Award</td>
-    <td>$35,000 x3</td>
+    <td>$120,000</td>
   </tr>
   <tr>
     <td>2023 - 2024</td>
