@@ -41,7 +41,7 @@ td:first-child {
 <table>
   <tr>
     <td>2024 08</td>
-    <td>Our poster paper on a <a href="https://drive.google.com/file/d/1OizsCe5WYrPeciVy3WtUiISUuU0gZc78/view?usp=sharing">Speech-based Mark for Data Sonification</a> has been accepted in ACM ASSETS ’24 Conference!</td>
+    <td>Our poster paper on a <a href="https://arxiv.org/pdf/2408.06942">Speech-based Mark for Data Sonification</a> has been accepted in ACM ASSETS ’24 Conference!</td>
   </tr>
   <tr>
     <td>2024 06</td>
