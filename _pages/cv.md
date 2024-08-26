@@ -111,14 +111,20 @@ td:first-child {
   </tr> -->
   <tr>
     <td>2024</td>
+    <td>Lilly Ko</td>
+    <td>Undergraduate Student. On-going Paper. </td>
+    <td>Computer Science, UVic</td>
+  </tr>
+  <tr>
+    <td>2024</td>
     <td>Jingyi Lu</td>
-    <td>Undergraduate Honours Student</td>
+    <td>Undergraduate Honours Student. Poster Paper published in ASSETS 2024. </td>
     <td>Computer Science, UVic</td>
   </tr>
   <tr>
     <td>2024</td>
     <td>Laura Paul</td>
-    <td>MSc Student</td>
+    <td>MSc Student. On-going Paper. </td>
     <td>Computer Science, UVic</td>
   </tr>
   <tr>
