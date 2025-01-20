@@ -172,7 +172,7 @@ td:first-child {
   <tr>
     <td>2024</td>
     <td>Reviewer</td>
-    <td>IEEE VIS, Short Papers; Cognition and Creativity [C&C], Poster; ACM MobileHCI [MCHI], Full paper; ACM Conference on Human Factors in Computing [CHI], Late-Breaking Work</td>
+    <td>IEEE VIS, Short Papers; <br>Cognition and Creativity [C&C], Poster; <br>ACM MobileHCI [MCHI], Full paper; <br>ACM Conference on Human Factors in Computing [CHI], Late-Breaking Work</td>
   </tr>
   <tr>
     <td>2023</td>
