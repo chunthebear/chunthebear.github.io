@@ -235,19 +235,19 @@ td:first-child {
     <th>Details</th>
   </tr> -->
   <tr>
-    <td>2024</td>
-    <td>University of Victoria Graduate Awards</td>
-    <td></td>
-  </tr>
-  <tr>
     <td>2024 - 2027</td>
     <td>NSERC CGSD Doctoral Award</td>
     <td>$120,000</td>
   </tr>
   <tr>
-    <td>2023 - 2024</td>
+    <td>2023 - 2025</td>
     <td>UVic Graduate Fellowship Award (PhD)</td>
-    <td>$15,000 + $5,000 top-up</td>
+    <td>$15,000 x2</td>
+  </tr>
+  <tr>
+    <td>2024</td>
+    <td>University of Victoria Graduate Awards</td>
+    <td></td>
   </tr>
   <tr>
     <td>2023 - 2024</td>
