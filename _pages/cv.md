@@ -48,7 +48,6 @@ td:first-child {
   * GPA: 8.71/9 or 97% average -->
 
 
-
 ## Publications
 
   <ul>{% for post in site.publications reversed %}
@@ -333,6 +332,8 @@ td:first-child {
   * B.C. Centennial Scholarship  
   * President's Scholarship  
     * $2,138 (competitive) -->
+
+
 
 
 ## Work Experience
