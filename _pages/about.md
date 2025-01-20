@@ -45,7 +45,7 @@ td:first-child {
   </tr>
   <tr>
     <td>2024 10</td>
-    <td>Our poster paper on an Evidence Mapping Review of Interventions for Concurrent Brain Injury and Mental Health/Substance Use has been accepted in The 53rd Meeting of the International Neuropsychological Society. The abstract will be published in the Journal of the International Neuropsychological Society.</td>
+    <td>Our work on an Evidence Mapping Review of Interventions for Concurrent Brain Injury and Mental Health/Substance Use has been accepted in The 53rd Meeting of the International Neuropsychological Society. The abstract will be published in the Journal of the International Neuropsychological Society.</td>
   </tr>
   <tr>
     <td>2024 08</td>
