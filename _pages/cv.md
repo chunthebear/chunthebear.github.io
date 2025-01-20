@@ -48,6 +48,38 @@ td:first-child {
   * GPA: 8.71/9 or 97% average -->
 
 
+## Work Experience
+
+<div class="table-wrapper" markdown="block" style="overflow-x: scroll; overflow-y: scroll; font-size: 12px;" >
+
+<table> <tr> <td>September 2019 - December 2022</td> <td>Image Description Specialist</td> <td>Centre for Accessible Learning, University of Victoria</td> </tr> <tr> <td>May 2022 - August 2022</td> <td>Research Intern</td> <td>Music-computer Lab, University of Victoria</td> </tr> <tr> <td>May 2021 - August 2021; January - August 2020</td> <td>Full Stack Software Engineer</td> <td>AOT Technologies, Victoria, BC</td> </tr> <tr> <td>May - August 2019</td> <td>Quality Assurance Analyst Co-op</td> <td>VertiGIS, Victoria, BC</td> </tr> </table>
+
+</div>
+
+<!-- * Image Description Specialist, Centre for Accessible Learning, University of Victoria. **September 2019 - December 2022**
+  * Made learning more accessible for visually impaired students by converting complex images to text descriptions
+
+* Research Intern, Music-computer Lab, University of Victoria. **May 2022 - August 2022**
+  * Developed a novel interactive sonification framework to turn data into sounds with real-time control for domain experts with no programming experience to adopt and design meaningful sonifications
+
+* Full Stack Software Engineer, AOT Technologies, Victoria, BC. **May 2021 - August 2021; January - August 2020**
+  * Developed an open-source framework, [formsflow.ai](https://formsflow.ai/), consisting of smart forms, automated business workflows, and data analytics to facilitate business processes with integration of SSO and cloud deployment
+  * Implemented and maintained DevOps pipeline for formsflow.ai
+
+* Quality Assurance Analyst Co-op, VertiGIS, Victoria, BC. **May - August 2019**
+  * Oversaw the quality of four software Geocortex products through user and functionality testing
+  * Designed and maintained automated and manual tests 
+  * Reported bugs, tracked defects, and resolved issues with developers effectively in a team -->
+  
+<!-- Skills
+
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3 -->
+
 ## Publications
 
   <ul>{% for post in site.publications reversed %}
@@ -332,38 +364,3 @@ td:first-child {
   * B.C. Centennial Scholarship  
   * President's Scholarship  
     * $2,138 (competitive) -->
-
-
-
-
-## Work Experience
-
-<div class="table-wrapper" markdown="block" style="overflow-x: scroll; overflow-y: scroll; font-size: 12px;" >
-
-<table> <tr> <td>September 2019 - December 2022</td> <td>Image Description Specialist</td> <td>Centre for Accessible Learning, University of Victoria</td> </tr> <tr> <td>May 2022 - August 2022</td> <td>Research Intern</td> <td>Music-computer Lab, University of Victoria</td> </tr> <tr> <td>May 2021 - August 2021; January - August 2020</td> <td>Full Stack Software Engineer</td> <td>AOT Technologies, Victoria, BC</td> </tr> <tr> <td>May - August 2019</td> <td>Quality Assurance Analyst Co-op</td> <td>VertiGIS, Victoria, BC</td> </tr> </table>
-
-</div>
-
-<!-- * Image Description Specialist, Centre for Accessible Learning, University of Victoria. **September 2019 - December 2022**
-  * Made learning more accessible for visually impaired students by converting complex images to text descriptions
-
-* Research Intern, Music-computer Lab, University of Victoria. **May 2022 - August 2022**
-  * Developed a novel interactive sonification framework to turn data into sounds with real-time control for domain experts with no programming experience to adopt and design meaningful sonifications
-
-* Full Stack Software Engineer, AOT Technologies, Victoria, BC. **May 2021 - August 2021; January - August 2020**
-  * Developed an open-source framework, [formsflow.ai](https://formsflow.ai/), consisting of smart forms, automated business workflows, and data analytics to facilitate business processes with integration of SSO and cloud deployment
-  * Implemented and maintained DevOps pipeline for formsflow.ai
-
-* Quality Assurance Analyst Co-op, VertiGIS, Victoria, BC. **May - August 2019**
-  * Oversaw the quality of four software Geocortex products through user and functionality testing
-  * Designed and maintained automated and manual tests 
-  * Reported bugs, tracked defects, and resolved issues with developers effectively in a team -->
-  
-<!-- Skills
-
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
