@@ -110,6 +110,12 @@ td:first-child {
     <th>Details</th>
   </tr> -->
   <tr>
+    <td>2025</td>
+    <td>Colleen Cipriano</td>
+    <td>MSc Student. On-going Paper. </td>
+    <td>Computer Science, UVic</td>
+  </tr>
+  <tr>
     <td>2024</td>
     <td>Lilly Ko</td>
     <td>Undergraduate Student. On-going Paper. </td>
@@ -156,7 +162,12 @@ td:first-child {
   <tr>
     <td>2024</td>
     <td>Reviewer</td>
-    <td>IEEE VIS, Short Paper</td>
+    <td>CHI 2025, Full Papers</td>
+  </tr>
+  <tr>
+    <td>2024</td>
+    <td>Reviewer</td>
+    <td>IEEE VIS, Short Papers</td>
   </tr>
   <tr>
     <td>2024</td>

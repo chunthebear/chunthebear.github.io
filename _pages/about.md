@@ -40,6 +40,14 @@ td:first-child {
 
 <table>
   <tr>
+    <td>2024 10 - 2025 01</td>
+    <td>Visited labs at SMU, SUTD and NUS in Singapore and gave a talk on "Information Access for Blind and Low-Vision People: A Representation-Centered and Social Perspective."</td>
+  </tr>
+  <tr>
+    <td>2024 10</td>
+    <td>Our poster paper on an Evidence Mapping Review of Interventions for Concurrent Brain Injury and Mental Health/Substance Use has been accepted in The 53rd Meeting of the International Neuropsychological Society. The abstract will be published in the Journal of the International Neuropsychological Society.</td>
+  </tr>
+  <tr>
     <td>2024 08</td>
     <td>Our poster paper on a <a href="https://arxiv.org/pdf/2408.06942">Speech-based Mark for Data Sonification</a> has been accepted in ACM ASSETS ’24 Conference!</td>
   </tr>
