@@ -160,24 +160,9 @@ td:first-child {
     <th>Details</th>
   </tr> -->
   <tr>
-    <td>2024</td>
+    <td>2025</td>
     <td>Reviewer</td>
     <td>CHI 2025, Full Papers</td>
-  </tr>
-  <tr>
-    <td>2024</td>
-    <td>Reviewer</td>
-    <td>IEEE VIS, Short Papers</td>
-  </tr>
-  <tr>
-    <td>2024</td>
-    <td>Reviewer</td>
-    <td>Cognition and Creativity [C&C], Poster</td>
-  </tr>
-  <tr>
-    <td>2024</td>
-    <td>Reviewer</td>
-    <td>ACM MobileHCI [MCHI], Full paper</td>
   </tr>
   <tr>
     <td>2024</td>
@@ -187,7 +172,7 @@ td:first-child {
   <tr>
     <td>2024</td>
     <td>Reviewer</td>
-    <td>ACM Conference on Human Factors in Computing [CHI], Late-Breaking Work</td>
+    <td>IEEE VIS, Short Papers; Cognition and Creativity [C&C], Poster; ACM MobileHCI [MCHI], Full paper; ACM Conference on Human Factors in Computing [CHI], Late-Breaking Work</td>
   </tr>
   <tr>
     <td>2023</td>
@@ -195,7 +180,7 @@ td:first-child {
     <td>Graphical Interface Conference</td>
   </tr>
   <tr>
-    <td>2023 - 2024</td>
+    <td>2023 - Present</td>
     <td>Accessibility-related Community Engagement</td>
     <td>Canadian National Institute for the Blind (CNIB) Wireless Wednesday program <br> 
     Oak Bay Community Project <br> 
