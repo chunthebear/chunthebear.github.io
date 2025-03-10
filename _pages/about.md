@@ -40,6 +40,10 @@ td:first-child {
 
 <table>
   <tr>
+    <td>2025 03</td>
+    <td>Presented talk on HCI and Accessible Design for VikesLab, a UVic student club in computer science, for outreach.</td>
+  </tr>
+  <tr>
     <td>2024 10 - <br>2025 01</td>
     <td>Visited labs at SMU, SUTD and NUS in Singapore and gave a talk on <a href="https://drive.google.com/file/d/1_rs-tFT12dgRAyQoWwjqfgfwhBDNiLZl/view?usp=sharing">Information Access for Blind and Low-Vision People: A Representation-Centered and Social Perspective.</a></td>
   </tr>
