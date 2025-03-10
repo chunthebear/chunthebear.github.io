@@ -13,7 +13,8 @@ Welcome! I am a Ph.D. student in the Department of Computer Science at the Unive
 
 For a list of my publications, please visit the [Publications](/publications/) page. For an overview of my projects, visit the [Portfolio](/portfolio/) page. For my teaching experience, please visit the [Teaching](/teaching/) page. 
 
-You can view my [CV](/cv/) for more details about my education and work experience. You can also find me on [Google Scholar](https://scholar.google.ca/citations?user=sBdn2mgAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/yichunzhao/) and [X (or Twitter)](https://twitter.com/yichunzhao6).
+You can view my [CV](/cv/) for more details about my education and work experience. You can also find me on [Google Scholar](https://scholar.google.ca/citations?user=sBdn2mgAAAAJ&hl=en), and [LinkedIn](https://www.linkedin.com/in/yichunzhao/). 
+ <!-- and [X (or Twitter)](https://twitter.com/yichunzhao6). -->
 
 # News
 
