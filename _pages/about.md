@@ -41,6 +41,14 @@ td:first-child {
 
 <table>
   <tr>
+    <td>2025 04</td>
+    <td>Presented a talk on Information Accessibility for Blind and Low-Vision People at the UBCO campus, hosted by Dr. Pourang Irani. </td>
+  </tr>
+  <tr>
+    <td>2025 04</td>
+    <td>Organized panel discussion on Assistive Technology, AI, and the Future of Work at the Canadian Council of the Blind Triennial Conference. </td>
+  </tr>
+  <tr>
     <td>2025 03</td>
     <td>Presented talk on HCI and Accessible Design for VikesLab, a UVic student club in computer science, for outreach.</td>
   </tr>
