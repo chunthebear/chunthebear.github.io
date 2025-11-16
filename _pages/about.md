@@ -41,6 +41,16 @@ td:first-child {
 
 <table>
   <tr>
+    <td>2025 11</td>
+    <td>Presented a student talk on Accessibility x Health research at the 2025 UVic Health Technology Showcase,event, and received the runner up best presentation award. </td>
+  </tr>
+  <tr>
+  <tr>
+    <td>2025 07</td>
+    <td>Received the competitive Lloyd Milburn Innovation Award. Thank you to the donar for supporting and honoring me with this award. </td>
+  </tr>
+  <tr>
+  <tr>
     <td>2025 04</td>
     <td>Presented a talk on Information Accessibility for Blind and Low-Vision People at the UBCO campus, hosted by Dr. Pourang Irani. </td>
   </tr>

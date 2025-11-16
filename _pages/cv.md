@@ -111,6 +111,12 @@ td:first-child {
   </tr> -->
   <tr>
     <td>2025</td>
+    <td>Jennifer Buskas </td>
+    <td>Undergraduate Student. On-going Paper. </td>
+    <td>Computer Science, UVic</td>
+  </tr>
+  <tr>
+    <td>2025</td>
     <td>Amir Negahdarsaber</td>
     <td>Undergraduate Student. On-going Paper. </td>
     <td>Computer Science, UVic</td>
@@ -165,6 +171,11 @@ td:first-child {
     <th>Role</th>
     <th>Details</th>
   </tr> -->
+  <tr>
+    <td>2025</td>
+    <td>Student Reviewer</td>
+    <td>CHI 2026, Full Papers</td>
+  </tr>
   <tr>
     <td>2025</td>
     <td>Student Reviewer</td>
@@ -245,6 +256,11 @@ td:first-child {
     <th>Award</th>
     <th>Details</th>
   </tr> -->
+  <tr>
+    <td>2025</td>
+    <td>Lloyd Milburn Innovation Award</td>
+    <td>$5,000</td>
+  </tr>
   <tr>
     <td>2024 - 2027</td>
     <td>NSERC CGSD Doctoral Award</td>
