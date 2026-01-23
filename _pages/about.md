@@ -42,7 +42,7 @@ td:first-child {
 <table>
   <tr>
     <td>2026 01</td>
-    <td>Our paper "Accessibility-Driven Information Transformations in Mixed-Visual Ability Work Teams" has been conditionally accepted in CHI2026! We explain the ways team members with diverse visual abilities collectively transform information for accessibility reasons technically and socially, and discuss the various trade-offs and negotiations that occur during their processes.</td>
+    <td>Our paper "Accessibility-Driven Information Transformations in Mixed-Visual Ability Work Teams" has been conditionally accepted in CHI2026! We explain the ways team members with diverse visual abilities collectively transform information for accessibility reasons technically and socially, and discuss the various trade-offs and negotiations that occur during the process.</td>
   </tr>
   <tr>
     <td>2025 11</td>
