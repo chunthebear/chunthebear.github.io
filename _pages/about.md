@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ph.D. student in the Department of Computer Science at the University of Victoria, BC, Canada. I am a member of the [Victoria Interactive eXperiences with Information (VIXI) Research Lab](https://vixi.cs.uvic.ca/), working with [Dr. Miguel A. Nacenta](https://nacenta.com/) and [Dr. Sowmya Somanath](https://vixi.cs.uvic.ca/people/sowmya-somanath-2020-06-18/). I conduct research in Human-Computer Interaction and Accessibility, and I design systems to improve accessibility to knowledge representations for blind and low-vision people to support their full information engagement especially in mixed-visual settings.
+Welcome! I am a Ph.D. student in the Department of Computer Science at the University of Victoria, BC, Canada. I am a member of the [Victoria Interactive eXperiences with Information (VIXI) Research Lab](https://vixi.cs.uvic.ca/), working with [Dr. Miguel A. Nacenta](https://nacenta.com/) and [Dr. Sowmya Somanath](https://vixi.cs.uvic.ca/people/sowmya-somanath-2020-06-18/). I conduct research in Human-Computer Interaction and Accessibility, and I design systems to improve accessibility to information representations for blind and low-vision people to support their full information engagement in access, authoring, and co-creation.
 
 <!-- I am also part of the [NSERC Visual and Automated Disease Analytics (VADA) Graduate Training Program](https://vada.cs.umanitoba.ca/profiles/yichun-zhao/), a collaborative program between the University of Manitoba and the University of Victoria. -->
 
@@ -41,12 +41,16 @@ td:first-child {
 
 <table>
   <tr>
+    <td>2026 01</td>
+    <td>Our paper "Accessibility-Driven Information Transformations in Mixed-Visual Ability Work Teams" has been conditionally accepted in CHI2026! We explain the ways team members with diverse visual abilities collectively transform information for accessibility reasons technically and socially, and discuss the various trade-offs and negotiations that occur during their processes.</td>
+  </tr>
+  <tr>
     <td>2025 11</td>
     <td>Presented a student talk on Accessibility x Health research at the 2025 UVic Health Technology Showcase,event, and received the runner up best presentation award. </td>
   </tr>
   <tr>
     <td>2025 07</td>
-    <td>Received the competitive Lloyd Milburn Innovation Award. Thank you to the donar for supporting and honoring me with this award. </td>
+    <td>Received the competitive Lloyd Milburn Innovation Award. Thank you to the donor for supporting and honoring me with this award. </td>
   </tr>
   <tr>
     <td>2025 04</td>

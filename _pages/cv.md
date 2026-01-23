@@ -112,7 +112,7 @@ td:first-child {
   <tr>
     <td>2025</td>
     <td>Jennifer Buskas </td>
-    <td>Undergraduate Student. On-going Paper. </td>
+    <td>Undergraduate Student. </td>
     <td>Computer Science, UVic</td>
   </tr>
   <tr>
@@ -130,7 +130,7 @@ td:first-child {
   <tr>
     <td>2024</td>
     <td>Lilly Ko</td>
-    <td>Undergraduate Student. On-going Paper. </td>
+    <td>Undergraduate Student. </td>
     <td>Computer Science, UVic</td>
   </tr>
   <tr>
