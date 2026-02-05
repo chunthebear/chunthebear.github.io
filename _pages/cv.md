@@ -172,6 +172,11 @@ td:first-child {
     <th>Details</th>
   </tr> -->
   <tr>
+    <td>2026</td>
+    <td>PC member</td>
+    <td>CHIWORK 2026, Full Papers</td>
+  </tr>
+  <tr>
     <td>2025</td>
     <td>Student Reviewer</td>
     <td>CHI 2026, Full Papers</td>
