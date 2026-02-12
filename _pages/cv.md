@@ -173,6 +173,11 @@ td:first-child {
   </tr> -->
   <tr>
     <td>2026</td>
+    <td>AC</td>
+    <td>DIS 2026, Posters / Work in Progress</td>
+  </tr>
+  <tr>
+    <td>2026</td>
     <td>PC member</td>
     <td>CHIWORK 2026, Full Papers</td>
   </tr>

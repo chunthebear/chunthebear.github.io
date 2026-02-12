@@ -41,8 +41,16 @@ td:first-child {
 
 <table>
   <tr>
+    <td>2026 02</td>
+    <td>Serving as PC member for CHIWORK 2026 and AC for DIS 2026.</td>
+  </tr>
+  <tr>
     <td>2026 01</td>
     <td>Our paper "Accessibility-Driven Information Transformations in Mixed-Visual Ability Work Teams" has been conditionally accepted in CHI2026! We explain the ways team members with diverse visual abilities collectively transform information for accessibility reasons technically and socially, and discuss the various trade-offs and negotiations that occur during the process.</td>
+  </tr>
+  <tr>
+    <td>2026 01</td>
+    <td>Our paper "ClayPhys: Towards Toolkits that Support Making Expressive Data Physicalization" has been conditionally accepted in CHI2026! The first author is my hardworking colleague, Bahare Bakhtiari. We explore how can clay be used as an experssive material for data physicalization and how our toolkit can support the creation.</td>
   </tr>
   <tr>
     <td>2025 11</td>
