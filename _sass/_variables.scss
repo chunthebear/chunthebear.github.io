@@ -29,10 +29,11 @@ $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
 $century                    : "Century Schoolbook", serif; 
+$arial                      : Arial, sans-serif;
 
-$global-font-family         : $helvetica; // $sans-serif;
-$header-font-family         : $helvetica;
-$caption-font-family        : $helvetica; // $serif;
+$global-font-family         : $arial; // $sans-serif;
+$header-font-family         : $arial;
+$caption-font-family        : $arial; // $serif;
 
 /* type scale */
 $type-size-1                : 2.2em; // 2.441em;  // ~39.056px
