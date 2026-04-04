@@ -54,7 +54,7 @@ td:first-child {
   </tr>
   <tr>
     <td>2025 11</td>
-    <td>Presented a student talk on Accessibility x Health research at the 2025 UVic Health Technology Showcase,event, and received the runner up best presentation award. </td>
+    <td>Presented a student talk on Accessibility x Health research at the 2025 UVic Health Technology Showcase event, and received the runner up best presentation award. </td>
   </tr>
   <tr>
     <td>2025 07</td>
