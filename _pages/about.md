@@ -90,7 +90,7 @@ td:first-child {
     <td>Our work on <a href="">Interventions for Concurrent Brain Injury and Mental Health/Substance Use: Evidence Mapping Review, Equity Examination, & Development of an Interactive Knowledge Mobilization Platform</a> has been accepted in The 53rd Meeting of the International Neuropsychological Society. The abstract will be published in the Journal of the International Neuropsychological Society.</td>
   </tr> -->
   <tr>
-    <td>2024 10</td>
+    <td>2025 02</td>
     <td>Our work on an <a href="https://drive.google.com/file/d/1yqaYQklEdIQno7p2ls5tQ7cqvgzOcmwH/view?usp=sharing"> Evidence Mapping Review of Interventions for Concurrent Brain Injury and Mental Health/Substance Use</a> has been accepted in The 53rd Meeting of the International Neuropsychological Society. The abstract will be published in the Journal of the International Neuropsychological Society. Check out the <a href="https://decision-map.com/">DECISION-MAP</a> interface we designed!</td>
   </tr>
   <tr>
