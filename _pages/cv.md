@@ -142,7 +142,7 @@ td:first-child {
   <tr>
     <td>2024</td>
     <td>Laura Paul</td>
-    <td>MSc Student. On-going Paper. </td>
+    <td>MSc Student. Paper published in CRV 2026. </td>
     <td>Computer Science, UVic</td>
   </tr>
   <tr>
