@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ph.D. student in the Department of Computer Science at the University of Victoria, BC, Canada. I am a member of the [Victoria Interactive eXperiences with Information (VIXI) Research Lab](https://vixi.cs.uvic.ca/), working with [Dr. Miguel A. Nacenta](https://nacenta.com/) and [Dr. Sowmya Somanath](https://vixi.cs.uvic.ca/people/sowmya-somanath-2020-06-18/). I conduct research in Human-Computer Interaction and Accessibility, and I design systems to improve accessibility to information representations for blind and low-vision people to support their full information engagement in access, authoring, and co-creation.
+Welcome! I am a Ph.D. student in the Department of Computer Science at the University of Victoria, BC, Canada. I am a member of the [Victoria Interactive eXperiences with Information (VIXI) Research Lab](https://vixi.cs.uvic.ca/), working with [Dr. Miguel A. Nacenta](https://nacenta.com/) and [Dr. Sowmya Somanath](https://vixi.cs.uvic.ca/people/sowmya-somanath-2020-06-18/). I conduct research in Human-Computer Interaction and Accessibility, and I design systems to improve accessibility to information representations for blind and low-vision people to support their full information engagement in access, authoring, and co-creation in diverse-ability contexts.
 
 <!-- I am also part of the [NSERC Visual and Automated Disease Analytics (VADA) Graduate Training Program](https://vada.cs.umanitoba.ca/profiles/yichun-zhao/), a collaborative program between the University of Manitoba and the University of Victoria. -->
 
@@ -40,17 +40,30 @@ td:first-child {
 </style>
 
 <table>
+
+  <tr>
+    <td>2026 04</td>
+    <td>Our paper <a href="https://drive.google.com/file/d/1tWmtK6o8U3pvfgQvVjwnLQVdYnMz174p/view?usp=sharing">"Semantic Segmentation of Node and Edge Diagrams for Assistive Technology"</a> has been accepted in CRV (Conference on Robots and Vision) 2026! This is a follow-up to our CHI 2024 full paper on TADA (Touch-and-Audio-based Diagram Access). We report how we can use computer vision techniques to improve accessibility for blind and low-vision people.</td>
+  </tr>
+  <tr>
+    <td>2026 03</td>
+    <td>Our paper <a href="https://drive.google.com/file/d/1z_spHAoAYXeQ8brAScpZhfcONdFxR_RC/view?usp=sharing">"If We Had the Information That We Need to Interpret the World Around Us, We Wouldn't Be Disabled:' Barriers and Opportunities in Information Work among Blind and Sighted Colleagues"</a> has been conditionally accepted in CHIWORK 2026! This is a companion paper to our CHI 2026 full paper on Accessibility-Driven Information Transformations. We dive deeper into the information barriers, and the higher-level social and workplace dynamics that influence information access and use.</td>
+  </tr>
   <tr>
     <td>2026 02</td>
-    <td>Serving as PC member for CHIWORK 2026 and AC for DIS 2026.</td>
+    <td>Serving as PC member for CHIWORK 2026 Full Papers, and AC for DIS 2026 Posters.</td>
   </tr>
   <tr>
     <td>2026 01</td>
-    <td>Our paper "Accessibility-Driven Information Transformations in Mixed-Visual Ability Work Teams" has been conditionally accepted in CHI2026! We explain the ways team members with diverse visual abilities collectively transform information for accessibility reasons technically and socially, and discuss the various trade-offs and negotiations that occur during the process.</td>
+    <td>Our paper <a href="https://drive.google.com/file/d/1e5IAhCHyy9rOzMHt78U8mTJHcOYsqOsO/view?usp=sharing">"Accessibility-Driven Information Transformations in Mixed-Visual Ability Work Teams"</a> has been conditionally accepted in CHI 2026! We explain the ways team members with diverse visual abilities collectively transform information for accessibility reasons technically and socially, and discuss the various trade-offs and negotiations that occur during the process.</td>
   </tr>
   <tr>
     <td>2026 01</td>
-    <td>Our paper "ClayPhys: Towards Toolkits that Support Making Expressive Data Physicalization" has been conditionally accepted in CHI2026! The first author is my hardworking colleague, Bahare Bakhtiari. We explore how can clay be used as an experssive material for data physicalization and how our toolkit can support the creation.</td>
+    <td>Our paper <a href="https://drive.google.com/file/d/1fSb_Ao-nXbx9_v3cip7sU9jV9usAt-Z3/view?usp=sharing>"ClayPhys: Towards Toolkits that Support Making Expressive Data Physicalization"</a> has been conditionally accepted in CHI 2026! The first author is my hardworking colleague, Bahare Bakhtiari. We explore how can clay be used as an experssive material for data physicalization and how our toolkit can support the creation.</td>
+  </tr>
+  <tr>
+    <td>2026 01</td>
+    <td>Special Recognition for Outstanding Reviews for CHI 2026 Papers.</td>
   </tr>
   <tr>
     <td>2025 11</td>
@@ -71,6 +84,10 @@ td:first-child {
   <tr>
     <td>2025 03</td>
     <td>Presented talk on HCI and Accessible Design for VikesLab, a UVic student club in computer science, for outreach.</td>
+  </tr>
+  <tr>
+    <td>2025 01</td>
+    <td>Special Recognition for Outstanding Reviews for CHI 2025 Papers.</td>
   </tr>
   <tr>
     <td>2024 10 - <br>2025 01</td>
@@ -102,7 +119,7 @@ td:first-child {
   </tr>
   <tr>
     <td>2024 04</td>
-    <td>Our ACM CHI 2024 paper on <a href="https://drive.google.com/file/d/1JiLCtijPCQDKN9f1nI5O2WfQymKGgZQR/view?usp=drive_link">TADA</a> has received the Honourable Mention Paper Award!</td>
+    <td>Our ACM CHI 2024 paper on <a href="https://drive.google.com/file/d/1JiLCtijPCQDKN9f1nI5O2WfQymKGgZQR/view?usp=drive_link">TADA: Making Node-Link Diagrams Accessible to Blind and Low-Vision People</a> has received the Honourable Mention Paper Award!</td>
   </tr>
   <tr>
     <td>2024 04</td>
@@ -110,7 +127,7 @@ td:first-child {
   </tr>
   <tr>
     <td>2024 01</td>
-    <td>Our paper on <a href="https://drive.google.com/file/d/1JiLCtijPCQDKN9f1nI5O2WfQymKGgZQR/view?usp=drive_link">TADA</a> has been accepted in ACM CHI 2024!</td>
+    <td>Our paper on <a href="https://drive.google.com/file/d/1JiLCtijPCQDKN9f1nI5O2WfQymKGgZQR/view?usp=drive_link">TADA: Making Node-Link Diagrams Accessible to Blind and Low-Vision People</a> has been accepted in ACM CHI 2024!</td>
   </tr>
 </table>
 

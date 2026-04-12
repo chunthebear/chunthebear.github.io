@@ -183,7 +183,7 @@ td:first-child {
   </tr>
   <tr>
     <td>2025</td>
-    <td>Student Reviewer</td>
+    <td>Reviewer (Special Recognition for Outstanding Reviews)</td>
     <td>CHI 2026, Full Papers</td>
   </tr>
   <tr>
@@ -193,7 +193,7 @@ td:first-child {
   </tr>
   <tr>
     <td>2025</td>
-    <td>Reviewer</td>
+    <td>Reviewer (Special Recognition for Outstanding Reviews)</td>
     <td>CHI 2025, Full Papers</td>
   </tr>
   <tr>
