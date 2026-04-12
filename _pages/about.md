@@ -47,7 +47,7 @@ td:first-child {
   </tr>
   <tr>
     <td>2026 03</td>
-    <td>Our paper <a href="https://drive.google.com/file/d/1z_spHAoAYXeQ8brAScpZhfcONdFxR_RC/view?usp=sharing">"If We Had the Information That We Need to Interpret the World Around Us, We Wouldn't Be Disabled:' Barriers and Opportunities in Information Work among Blind and Sighted Colleagues"</a> has been conditionally accepted in CHIWORK 2026! This is a companion paper to our CHI 2026 full paper on Accessibility-Driven Information Transformations. We dive deeper into the information barriers, and the higher-level social and workplace dynamics that influence information access and use.</td>
+    <td>Our paper <a href="https://drive.google.com/file/d/1z_spHAoAYXeQ8brAScpZhfcONdFxR_RC/view?usp=sharing">"'If We Had the Information That We Need to Interpret the World Around Us, We Wouldn't Be Disabled:' Barriers and Opportunities in Information Work among Blind and Sighted Colleagues"</a> has been conditionally accepted in CHIWORK 2026! This is a companion paper to our CHI 2026 full paper on Accessibility-Driven Information Transformations. We dive deeper into the information barriers, and the higher-level social and workplace dynamics that influence information access and use.</td>
   </tr>
   <tr>
     <td>2026 02</td>
@@ -59,7 +59,7 @@ td:first-child {
   </tr>
   <tr>
     <td>2026 01</td>
-    <td>Our paper <a href="https://drive.google.com/file/d/1fSb_Ao-nXbx9_v3cip7sU9jV9usAt-Z3/view?usp=sharing>"ClayPhys: Towards Toolkits that Support Making Expressive Data Physicalization"</a> has been conditionally accepted in CHI 2026! The first author is my hardworking colleague, Bahare Bakhtiari. We explore how can clay be used as an experssive material for data physicalization and how our toolkit can support the creation.</td>
+    <td>Our paper <a href="https://drive.google.com/file/d/1fSb_Ao-nXbx9_v3cip7sU9jV9usAt-Z3/view?usp=sharing>">"ClayPhys: Towards Toolkits that Support Making Expressive Data Physicalization"</a> has been conditionally accepted in CHI 2026! The first author is my hardworking colleague, Bahare Bakhtiari. We explore how can clay be used as an experssive material for data physicalization and how our toolkit can support the creation.</td>
   </tr>
   <tr>
     <td>2026 01</td>
