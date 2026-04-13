@@ -43,7 +43,7 @@ td:first-child {
 
   <tr>
     <td>2026 04</td>
-    <td>Our paper <a href="https://drive.google.com/file/d/1tWmtK6o8U3pvfgQvVjwnLQVdYnMz174p/view?usp=sharing">"Semantic Segmentation of Node and Edge Diagrams for Assistive Technology"</a> has been accepted in CRV (Conference on Robots and Vision) 2026! This is a follow-up to our CHI 2024 full paper on TADA (Touch-and-Audio-based Diagram Access). We report how we can use computer vision techniques to improve accessibility for blind and low-vision people.</td>
+    <td>Our paper <a href="https://drive.google.com/file/d/1tWmtK6o8U3pvfgQvVjwnLQVdYnMz174p/view?usp=sharing">"Semantic Segmentation of Node and Edge Diagrams for Assistive Technology"</a> has been accepted in CRV (Conference on Robots and Vision) 2026! This is a follow-up to our CHI 2024 full paper on TADA (Touch-and-Audio-based Diagram Access). We report how we can use computer vision techniques to improve diagram accessibility for blind and low-vision people.</td>
   </tr>
   <tr>
     <td>2026 03</td>
