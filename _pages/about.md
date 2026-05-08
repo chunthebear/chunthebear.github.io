@@ -40,7 +40,14 @@ td:first-child {
 </style>
 
 <table>
-
+  <tr>
+    <td>2026 05</td>
+    <td> I presented research findings back to the local blind and low-vision community through CCB, as part of research translation efforts. I am glad to hear people telling me how clear the talk was even though they might not be familiar with technology, and how appreciative they are witnessing how my research could contribute to their daily lives. This is what really keeps me going. I am thankful towards the community who enables me as a designer to learn and incoporate their lived and living experience to do the work that I do. </td>
+  </tr>
+  <tr>
+    <td>2026 05</td>
+    <td>Reviewer for Journal of Visualization and Interaction.</td>
+  </tr>
   <tr>
     <td>2026 04</td>
     <td>Our paper <a href="https://drive.google.com/file/d/1tWmtK6o8U3pvfgQvVjwnLQVdYnMz174p/view?usp=sharing">"Semantic Segmentation of Node and Edge Diagrams for Assistive Technology"</a> has been accepted in CRV (Conference on Robots and Vision) 2026! This is a follow-up to our CHI 2024 full paper on TADA (Touch-and-Audio-based Diagram Access). We report how we can use computer vision techniques to improve diagram accessibility for blind and low-vision people.</td>
