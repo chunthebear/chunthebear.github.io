@@ -41,6 +41,10 @@ td:first-child {
 
 <table>
   <tr>
+    <td>2026 06</td>
+    <td> We received an Honourable Mention Award at the CHIWORK 2026 conference, for our paper <a href="https://drive.google.com/file/d/1z_spHAoAYXeQ8brAScpZhfcONdFxR_RC/view?usp=sharing">"'If We Had the Information That We Need to Interpret the World Around Us, We Wouldn't Be Disabled:' Barriers and Opportunities in Information Work among Blind and Sighted Colleagues"</a>! </td>
+  </tr>
+  <tr>
     <td>2026 05</td>
     <td> I presented research findings back to the local blind and low-vision community through CCB, as part of research translation efforts. I am glad to hear people telling me how clear the talk was even though they might not be familiar with technology, and how appreciative they are witnessing how my research could contribute to their daily lives. This is what really keeps me going. I am thankful towards the community who enables me as a designer to learn and incoporate their lived and living experience to do the work that I do. </td>
   </tr>
