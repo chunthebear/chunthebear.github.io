@@ -144,6 +144,10 @@ td:first-child {
     <td>2024 01</td>
     <td>Our paper on <a href="https://drive.google.com/file/d/1JiLCtijPCQDKN9f1nI5O2WfQymKGgZQR/view?usp=drive_link">TADA: Making Node-Link Diagrams Accessible to Blind and Low-Vision People</a> has been accepted in ACM CHI 2024!</td>
   </tr>
+  <tr>
+    <td>2023 06</td>
+    <td>We received the Best Demonstration Award at the CHI 2023 conference, for our TADA (touch-and-audio-based diagram access) system! </td>
+  </tr>
 </table>
 
 
