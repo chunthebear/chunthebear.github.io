@@ -42,7 +42,7 @@ td:first-child {
 <table>
   <tr>
     <td>2026 06</td>
-    <td>Our paper has been accepted in ASSETS 2026! Title: "Q&A or Document-Based? The Effects of Interface Type on How Screen Reader Users Access Interconnected Documents"</td>
+    <td>Our paper has been accepted in ASSETS 2026! Titled: "Q&A or Document-Based? The Effects of Interface Type on How Screen Reader Users Access Interconnected Documents"</td>
   </tr>
   <tr>
     <td>2026 06</td>
