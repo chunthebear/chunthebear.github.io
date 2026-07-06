@@ -146,7 +146,7 @@ td:first-child {
   </tr>
   <tr>
     <td>2023 06</td>
-    <td>We received the Best Demonstration Award at the CHI 2023 conference, for our TADA (touch-and-audio-based diagram access) system! </td>
+    <td>We received the Best Demonstration Award at the Graphics Interface (GI) 2023 conference, for our TADA (touch-and-audio-based diagram access) system! </td>
   </tr>
 </table>
 
