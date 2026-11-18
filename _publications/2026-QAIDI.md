@@ -6,7 +6,7 @@ excerpt: 'This study investigated how blind and low-vision (BLV) users build kno
 date: 2026-10-24
 venue: 'The 28th International ACM SIGAC-CESS Conference on Computers and Accessibility (ASSETS ’26)'
 paperurl: ""
-citation: 'Colleen F. Cipriano, Yichun Zhao, Miguel A. Nacenta, Kotaro Hara, and JayleeSoh. 2026. Q&A or Document-Based? The Effects of Interface Type on HowScreen Reader Users Access Interconnected Documents: Q&A or Document-Based for Screen Reader Users?. In The 28th International ACM SIGAC-CESS Conference on Computers and Accessibility (ASSETS ’26), October 25–28,2026, Vila Nova de Gaia, Portugal. ACM, New York, NY, USA, 17 pages.https://doi.org/10.1145/3797890 (ASSETS, paper presentation)'
+citation: 'Colleen F. Cipriano, Yichun Zhao, Miguel A. Nacenta, Kotaro Hara, and JayleeSoh. 2026. Q&A or Document-Based? The Effects of Interface Type on HowScreen Reader Users Access Interconnected Documents. In The 28th International ACM SIGAC-CESS Conference on Computers and Accessibility (ASSETS ’26), October 25–28,2026, Vila Nova de Gaia, Portugal. ACM, New York, NY, USA, 17 pages.https://doi.org/10.1145/3797890 (ASSETS, paper presentation)'
 ---
 
 Blind and low-vision people are using AI chatbots more and more to read and understand documents. But do these chatbots actually help them learn better than reading a normal, structured document?

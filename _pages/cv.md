@@ -272,7 +272,7 @@ td:first-child {
     <th>Details</th>
   </tr> -->
   <tr>
-    <td>2026</td>
+    <td>2026 - 2028</td>
     <td>Google PhD Fellowship</td>
     <td>USD75K x2</td>
   </tr>
