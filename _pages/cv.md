@@ -277,6 +277,16 @@ td:first-child {
     <td>USD75K x2</td>
   </tr>
   <tr>
+    <td>2026</td>
+    <td>MITACS Globalink Research Award</td>
+    <td>6K</td>
+  </tr>
+  <tr>
+    <td>2026</td>
+    <td>NSERC CRTAS-RTS Funding</td>
+    <td>9K</td>
+  </tr>
+  <tr>
     <td>2025</td>
     <td>Lloyd Milburn Innovation Award</td>
     <td>$5,000</td>
