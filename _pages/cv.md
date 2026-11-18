@@ -124,7 +124,7 @@ td:first-child {
   <tr>
     <td>2025</td>
     <td>Colleen Cipriano</td>
-    <td>MSc Student. On-going Paper. </td>
+    <td>MSc Student. Paper published at ASSETS 2026. </td>
     <td>Computer Science, UVic</td>
   </tr>
   <tr>
@@ -171,6 +171,11 @@ td:first-child {
     <th>Role</th>
     <th>Details</th>
   </tr> -->
+  <tr>
+    <td>2026</td>
+    <td>Reviewer</td>
+    <td>CHI 2027, Full papers</td>
+  </tr>
   <tr>
     <td>2026</td>
     <td>AC</td>
@@ -266,6 +271,11 @@ td:first-child {
     <th>Award</th>
     <th>Details</th>
   </tr> -->
+  <tr>
+    <td>2026</td>
+    <td>Google PhD Fellowship</td>
+    <td>USD75K x2</td>
+  </tr>
   <tr>
     <td>2025</td>
     <td>Lloyd Milburn Innovation Award</td>

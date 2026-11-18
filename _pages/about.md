@@ -41,6 +41,22 @@ td:first-child {
 
 <table>
   <tr>
+    <td>2026 11</td>
+    <td>I have been selected as a Google PhD Fellow. I feel fortunate to have this opportunity to further my research and contribute to the field of accessibility.</td>
+  </tr>
+  <tr>
+    <td>2026 10</td>
+    <td>Our poster "Systematic Evidence Map and Review of Treatments for Mental Health and Substance Use Disorders in Brain Injury Populations with Interactive Data Visualization" will be presented at INS 2027.</td>
+  </tr>
+  <tr>
+    <td>2026 10</td>
+    <td>Our paper has been accepted in Frontiers in Digital Health! Titled: "Interventions for mental health and substance use in brain injury populations: systematic evidence map and review with interactive data visualization"</td>
+  </tr>
+  <tr>
+    <td>2026 10</td>
+    <td>I will be visiting SMU for six months working with Dr. Kotaro Hara. I am also grateful for the supplementary funding provided by MITACS and NSERC.</td>
+  </tr>
+  <tr>
     <td>2026 06</td>
     <td>Our paper has been accepted in ASSETS 2026! Titled: "Q&A or Document-Based? The Effects of Interface Type on How Screen Reader Users Access Interconnected Documents"</td>
   </tr>
