@@ -173,7 +173,7 @@ td:first-child {
   </tr> -->
   <tr>
     <td>2026</td>
-    <td>Reviewer</td>
+    <td>Reviewer (Special Recognition for Outstanding Reviews)</td>
     <td>CHI 2027, Full papers</td>
   </tr>
   <tr>
